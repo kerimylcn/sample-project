@@ -1,0 +1,36 @@
+.contact-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding:0 5% ;
+    padding-bottom: 350px;
+}
+
+.form-container{
+  padding: 5px !important;
+  max-width: 900px !important;
+  width: 100%;
+  
+  
+}
+
+.contact-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+  font-size: 28px;
+}
+
+.form-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

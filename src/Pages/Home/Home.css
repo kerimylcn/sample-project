@@ -1,0 +1,22 @@
+.home-container{
+    height: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
+   
+}
+
+
+.lorem-text{
+    font-size: 20px;
+}
+
+.title{
+    font-size: 30px;
+}
+
+
+
+

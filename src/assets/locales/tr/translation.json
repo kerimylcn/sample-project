@@ -1,0 +1,38 @@
+{
+    "title": "Başlık",
+    "home" : "Anasayfa",
+    "contact": "İletişim",
+    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum":"Lorem Ipsum, baskı ve dizgi endüstrisinin basit bir sahte metnidir. Lorem Ipsum, 1500'lü yıllardan beri, bilinmeyen bir matbaacının bir tip numune kitabı yapmak için bir kadırga alıp karıştırdığı zamandan beri endüstrinin standart sahte metni olmuştur. Sadece beş yüzyıl boyunca hayatta kalmayıp, aynı zamanda esasen değişmeden elektronik dizgiye sıçradı. 1960'larda Lorem Ipsum pasajları içeren Letraset sayfalarının yayınlanmasıyla ve daha yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümlerini içeren masaüstü yayıncılık yazılımlarıyla popüler hale geldi.",
+    "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.":"Popüler inanışın aksine, Lorem Ipsum rastgele bir metin değildir. 45'ten kalma bir klasik Latin edebiyatı parçasında kökleri vardır ve 2000 yıldan daha eskidir. Virginia'daki Hampden-Sydney College'da Latince profesörü olan Richard McClintock, bir Lorem Ipsum pasajındaki daha anlaşılması güç Latince sözcüklerden biri olan consectetur'u aradı ve kelimenin klasik edebiyattaki örneklerini inceleyerek, şüphesiz kaynağı keşfetti. Lorem Ipsum, Cicero tarafından MÖ 45'te yazılan de Finibus Bonorum et Malorum'un (İyi ve Kötünün Aşırılıkları) 1.10.32 ve 1.10.33 bölümlerinden gelmektedir. Bu kitap, Rönesans döneminde çok popüler olan etik teorisi üzerine bir incelemedir. Lorem Ipsum'un ilk satırı, Lorem ipsum dolor sit amet.., bölüm 1.10.32'deki bir satırdan gelmektedir.",
+    "login":"Giriş",
+    "Name":"İsim",
+    "Phone Number":"Telefon Numarası",
+    "Country":"Ülke",
+    "Introduction":"Bişeyler Yazın",
+    "Select a Country":"Ülke Seçin",
+    "Submit":"Gönder",
+    "Contact US":"Bizimle İletişime Geçin",
+    "Logout":"Çıkış",
+    "Username":"Kullanıcı Adı",
+    "Password":"Şifre",
+    "Language":"Dil",
+    "TR":"Turkiye",
+    "US":"Amerika Birleşik Devletleri",
+    "GB":"Birleşik Krallık",
+    "DE":"Almanya",
+    "SE":"İsveç",
+    "KE":"Kenya",
+    "BR":"Brezilya",
+    "ZW":"Zimbabwe",
+    "Please input your username!":"Lütfen kullanıcı adı giriniz!",
+    "Please input your e-mail!":"Lütfen e-mail adresinizi giriniz!",
+    "Please input your password!":"Lütfen şifrenizi giriniz!",
+    "Please input your phone number!":"Lütfen telefon numaranızı giriniz!",
+    "Please select your Country":"Lütfen ülke seçiniz!",
+    "Please enter correct phone number" : "Lütfen doğru telefon numarası giriniz!",
+    "Please input your title!" : "Lütfen başlık giriniz!",
+    "Please input your name!" : "Lütfen isim giriniz!"
+    
+    
+   
+}

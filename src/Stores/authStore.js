@@ -20,7 +20,7 @@ class AuthStore {
 
   setLogout(){
     this.isLogin = false;
-    console.log("here")
+    
   }
 }
 

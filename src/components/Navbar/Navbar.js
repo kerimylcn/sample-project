@@ -55,10 +55,7 @@ function Navbar2(props) {
     i18n.changeLanguage(value);
   }
 
-  function handleButtonClick(e) {
-    message.info('Click on left button.');
-    console.log('click left button', e);
-  }
+  
   
   function handleMenuClick(e) {
     
@@ -66,7 +63,7 @@ function Navbar2(props) {
 
     if(e.key === "2" ){
       props.authStore.setLogout();
-      console.log(props.authStore.isLogin)
+      
     }
     
   }
